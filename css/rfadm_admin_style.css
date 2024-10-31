@@ -1,0 +1,76 @@
+	.menu_section {
+		border: 1px solid black;
+		padding: 10px;
+		margin-bottom: 10px;
+	}
+	
+	.menu_section .add_item {
+		display: block;
+	}
+	
+	.menu_section .title {
+		min-width: 25%;
+	}
+	
+	.add_section {
+		margin-top: 10px !important;
+		margin-bottom: 10px !important;
+	}
+	
+	.item_titles {
+	    padding-right: 150px;
+    	margin-left: 85px;
+	}
+	
+	.item_images {
+	    float: right;
+    	margin-right: 250px;
+    }
+    
+    .menu_section .item_description {
+    	width: 100%;
+    	margin-top: 5px;
+    	margin-bottom: 25px;
+    }
+    
+	.rfadm_menu_item_delete {
+		float: right;
+	}
+	
+	.menu_section input.remove_item {
+		vertical-align: top;
+		float: left;
+		margin-right: 10px;
+	}
+	
+	p.menu_item_wrap {
+		margin: 0.5em 0;
+	}
+	
+	.sec_title {
+		margin-bottom: 20px;
+	}
+	
+	.item_name {
+		margin-right: 20px;
+	}
+	
+	.item_price {
+		margin-right: 20px;
+	}
+	
+	.remove_section_link {
+		color: #a00;
+		cursor: pointer;
+    	text-decoration: underline;
+    	float: right;
+	}
+	
+	.remove_section_link:hover {
+		color: red;
+	    border: none;
+	}
+	
+	.underline {
+		text-decoration: underline;
+	}
